@@ -3,6 +3,7 @@
 ## ROS
 - [Articulated Robotics - Very intuitive guides](https://articulatedrobotics.xyz/)
 - [Awesome ROS tools](https://github.com/oleg-Shipitko/awesome-ros-tools)
+- [Foxglove](https://console.foxglove.dev/)
 
 ## navigation
 *arranged from the basics to more advanced ideas*
